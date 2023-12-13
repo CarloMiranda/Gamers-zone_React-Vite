@@ -65,10 +65,10 @@ function Home() {
         
                 {/* GALLERY */}
         
-                <section className="gallery">
+                <section className="Agents gallery">
                     <div className="container">
             
-                        <h2 className="h2 section-title">CHARACTERS GALLERY</h2>
+                        <h2 className="h2 section-title">AGENTS GALLERY</h2>
             
                         <ul className="gallery-list has-scrollbar">
             
