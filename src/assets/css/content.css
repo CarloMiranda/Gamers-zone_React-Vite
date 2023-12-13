@@ -1,0 +1,101 @@
+
+/*-----------------------------------*\
+  #TEAM AGENTS ARSENAL and MAPS css
+\*-----------------------------------*/
+
+
+
+/*-----------------------------------*\
+# MAIN CONTAINER
+\*-----------------------------------*/
+
+.gears { 
+    padding: var(--section-padding) 0;
+    margin-top: 90px;
+}
+
+.gears-list {
+  display: grid;
+  gap: 50px;
+}
+
+.gears-card .card-banner {
+  position: relative;
+  background: url("../images/gears-card-bg.png") no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+  aspect-ratio: 2 / 1.7;
+  display: grid;
+  place-items: center;
+  margin-bottom: 30px;
+}
+
+.gears .card-banner a { width: 100%; }
+
+.gears .card-banner .agents-img {
+  width: 65%;
+  height: 290px;
+  margin-inline: auto;
+}
+
+.gears .card-banner .arsenal-img {
+  width: 95%;
+  height: 90%;
+  margin-inline: auto;
+}
+
+.gears .card-banner .maps-img {
+  margin-top: 40px;
+  width: 98%;
+  height: 100%;
+  margin-inline: auto;
+}
+
+.gears .card-banner .team-img {
+  margin-top: 40px;
+  width: 50%;
+  margin-inline: auto;
+}
+
+.card-name-wrapper {
+  position: absolute;
+  color: var(--white);
+  top: 3%;
+  right: 10%;
+  font-family: var(--ff-oswald);
+  font-size: var(--fs-7);
+  font-weight: var(--fw-500);
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.card-name-wrapper ion-icon {
+  font-size: 16px;
+  --ionicon-stroke-width: 50px;
+}
+
+.gears .card-content {
+  color: var(--white);
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.gears-card :is(.card-title) {
+  font-family: var(--ff-oswald);
+  font-size: var(--fs-5);
+  font-weight: var(--fw-700);
+}
+
+.gears-card .card-title { margin-bottom: 5px; }
+
+
+  
+  
+  
