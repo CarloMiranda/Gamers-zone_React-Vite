@@ -1,8 +1,20 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+  
 
-Currently, two official plugins are available:
+  <img src="./assets/images/logo.png" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <h2 align="center">Gamers Zone - Valorant website</h2>
+
+  Gamers zone is a fully responsive valorant website, <br />Responsive for all devices, built React Framework.
+
+  <a href="https://gamers-zone.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Contact
+
+If you want to contact with me you can reach me at [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRvxVGcRfQZXWrMGbNJGmQSsdJXbNcbzjLQMJsZhgRFCGXhHXdxdHnMpQtnfkkBlsSJqLXQ).
