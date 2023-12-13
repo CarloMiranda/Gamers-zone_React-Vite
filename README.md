@@ -3,13 +3,13 @@
 <div align="center">
   
 
-  <img src="./assets/images/logo.png" />
+  <img src="/images/logo.png" />
 
   <h2 align="center">Gamers Zone - Valorant website</h2>
 
   Gamers zone is a fully responsive valorant website, <br />Responsive for all devices, built React Framework.
 
-  <a href="https://gamers-zone.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="[https://gamers-zone.vercel.app/](https://gamers-zone-valorant-7fenxhx34-carlomiranda.vercel.app/)"><strong>➥ Live Demo</strong></a>
 
 </div>
 
