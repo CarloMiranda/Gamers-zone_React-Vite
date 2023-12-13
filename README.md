@@ -3,7 +3,7 @@
 <div align="center">
   
 
-  <img src="/images/logo.png" />
+  <img src="public/images/logo.png" />
 
   <h2 align="center">Gamers Zone - Valorant website</h2>
 
